@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f8fe;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-putih {
+  background: #ffffff;
+  /* shadow card */
+  box-shadow: 0px 5px 40px rgba(14, 118, 170, 0.2);
+  border-radius: 20px;
+}
